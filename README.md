@@ -10,7 +10,7 @@ Copy any `.md` file to your `~/.claude/commands/` directory. The command becomes
 
 | Command | Description |
 |---------|-------------|
-| [screenshot](./screenshot.md) | Take a phone screenshot and save to project assets |
+| [ssp](./ssp.md) | Take a phone screenshot and save to project assets |
 
 ## About
 
