@@ -1,3 +1,7 @@
+---
+description: Open file paths mentioned in Claude's last response
+---
+
 Look at your most recent response (the last Claude turn only) and find any file paths you mentioned.
 
 - If no files were mentioned: tell the user "No files mentioned in my last response."
