@@ -12,6 +12,7 @@ Copy any `.md` file to your `~/.claude/commands/` directory. The command becomes
 |---------|-------------|
 | [open](./open.md) | Open file paths mentioned in Claude's last response |
 | [ssp](./ssp.md) | Take a phone screenshot and save to project assets |
+| [trim-video](./trim-video.md) | Trim seconds from the start and/or end of video files using ffmpeg |
 
 ## About
 
