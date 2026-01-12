@@ -10,6 +10,7 @@ Copy any `.md` file to your `~/.claude/commands/` directory. The command becomes
 
 | Command | Description |
 |---------|-------------|
+| [open](./open.md) | Open file paths mentioned in Claude's last response |
 | [ssp](./ssp.md) | Take a phone screenshot and save to project assets |
 
 ## About
